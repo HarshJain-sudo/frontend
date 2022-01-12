@@ -1,0 +1,453 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"he",
+				"header"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"RE",
+				"required"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"get",
+				"getDisplayName"
+			],
+			[
+				"al",
+				"allProduct"
+			],
+			[
+				"all",
+				"allProduct"
+			],
+			[
+				"pr",
+				"productList"
+			],
+			[
+				"permiss",
+				"permission_classes"
+			],
+			[
+				"I",
+				"IsAuthenticatedOrReadOnly"
+			],
+			[
+				"REST",
+				"rest_framework"
+			],
+			[
+				"HTTP",
+				"HTTP_400_BAD_REQUEST"
+			],
+			[
+				"res",
+				"rest_framework"
+			],
+			[
+				"Re",
+				"RetrieveUpdateDestroyAPIView"
+			],
+			[
+				"Ret",
+				"RetrieveDestroyAPIView"
+			],
+			[
+				"Student",
+				"StudentSerializer"
+			],
+			[
+				"L",
+				"ListModelMixin"
+			],
+			[
+				"Generic",
+				"GenericAPIView"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"start",
+				"start_with_r"
+			],
+			[
+				"valida",
+				"ValidationError"
+			],
+			[
+				"method",
+				"method_decorator"
+			],
+			[
+				"is",
+				"is_valid"
+			],
+			[
+				"csrf",
+				"csrf_exempt"
+			],
+			[
+				"JSON",
+				"JSONRenderer"
+			],
+			[
+				"Js",
+				"JSONRenderer"
+			],
+			[
+				"cart",
+				"cartItems"
+			],
+			[
+				"car",
+				"cartItems"
+			],
+			[
+				"sae",
+				"state"
+			],
+			[
+				"orde",
+				"order"
+			],
+			[
+				"da",
+				"datetime"
+			],
+			[
+				"user",
+				"userFormData"
+			],
+			[
+				"proce",
+				"process_order"
+			],
+			[
+				"add",
+				"address"
+			],
+			[
+				"to",
+				"total"
+			],
+			[
+				"shipp",
+				"shipping"
+			],
+			[
+				"class",
+				"classList"
+			],
+			[
+				"shipping",
+				"shipping-info"
+			],
+			[
+				"order",
+				"orderitems"
+			],
+			[
+				"o",
+				"orderItem"
+			],
+			[
+				"Orde",
+				"orderItem"
+			],
+			[
+				"ge",
+				"getToken"
+			],
+			[
+				"cookie",
+				"cookieValue"
+			],
+			[
+				"update",
+				"update_item"
+			],
+			[
+				"l",
+				"Log"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"pro",
+				"productId"
+			],
+			[
+				"aut",
+				"auto_now_add"
+			],
+			[
+				"Pro",
+				"ProductAdmin"
+			],
+			[
+				"con",
+				"context"
+			],
+			[
+				"todo",
+				"todoapp"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"Htt",
+				"HttpResponseRedirect"
+			],
+			[
+				"H",
+				"HttpResponseRedirect"
+			],
+			[
+				"flight",
+				"flights"
+			],
+			[
+				"passenger",
+				"passenger_id"
+			],
+			[
+				"c",
+				"count"
+			],
+			[
+				"sr",
+				"string"
+			],
+			[
+				"count",
+				"count2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/programmer/Desktop/web_development/style_resume.css",
+		"/home/programmer/codes/node.cpp",
+		"/home/programmer/codes/insertnode.cpp",
+		"/home/programmer/codes/linkedlist.cpp",
+		"/home/programmer/codes/practice.cpp",
+		"/home/programmer/codes/binary search.cpp",
+		"/home/programmer/codes/shopping_cart_main.cpp",
+		"/home/programmer/codes/cartmodel.cpp",
+		"/home/programmer/Desktop/<html>",
+		"/home/programmer/django_project/API_Project28/API_Project28/urls.py",
+		"/home/programmer/django_project/API_Project28/API_Project28/settings.py",
+		"/home/programmer/django_project/API_Project28/api/views.py",
+		"/home/programmer/django_project/API_Project10/api/views.py",
+		"/home/programmer/django_project/API_Project3/API_Project3/settings.py",
+		"/home/programmer/django_project/demo/store/views.py",
+		"/home/programmer/django_project/demo/demo/settings.py",
+		"/home/programmer/django_project/demo/demo/urls.py",
+		"/home/programmer/django_project/demo/store/urls.py",
+		"/home/programmer/django_project/roiim/templates/payment/detail.html",
+		"/home/programmer/django_project/roiim/templates/index.html",
+		"/home/programmer/django_project/roiim/templates/base.html",
+		"/home/programmer/django_project/roiim/templates/user/signup.html",
+		"/home/programmer/django_project/roiim/templates/user/login.html",
+		"/home/programmer/django_project/roiim/templates/payment/start.html",
+		"/home/programmer/django_project/roiim/templates/product/list_products.html",
+		"/home/programmer/django_project/roiim/templates/product/product_details.html",
+		"/home/programmer/django_project/roiim/templates/product/product_list.html",
+		"/home/programmer/django_project/roiim/templates/payment/orders.html",
+		"/home/programmer/django_project/bazaar/static/css/main.css",
+		"/home/programmer/django_project/ecommerce/static/css/main.css",
+		"/home/programmer/django_project/ecommerce/ecommerce/urls.py",
+		"/home/programmer/django_project/ecommerce/store/urls.py",
+		"/home/programmer/django_project/ecommerce/products/models.py",
+		"/home/programmer/django_project/ecommerce/products/views.py",
+		"/home/programmer/django_project/ecommerce/products/admin.py",
+		"/home/programmer/django_project/ecommerce/templates/home.html",
+		"/home/programmer/django_project/ecommerce/profiles/admin.py",
+		"/home/programmer/django_project/ecommerce/ecommerce/settings.py",
+		"/home/programmer/django_project/ecommerce/profiles/templates/home.html",
+		"/home/programmer/django_project/ecommerce/profiles/views.py",
+		"/home/programmer/django_project/ecommerce/profiles/models.py",
+		"/home/programmer/django_project/blog/blog/settings.py",
+		"/home/programmer/django_project/blog/articles/models.py",
+		"/home/programmer/django_project/mysite/mysite/__init__.py",
+		"/home/programmer/Documents/codes/codeforces",
+		"/home/programmer/Documents/codes/input.txt",
+		"/home/programmer/Documents/codes/output.txt",
+		"/home/programmer/Documents/codes/codeforces.cpp",
+		"/home/programmer/.config/sublime-text-3/Packages/User/cpp.sublime-build",
+		"/home/programmer/.config/sublime-text-3/Packages/User/codestarter.sublime-snippet",
+		"/home/programmer/Documents/codes"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/cpp.sublime-build",
+	"project": "resume_project.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 162.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
